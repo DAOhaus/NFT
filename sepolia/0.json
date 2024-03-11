@@ -1,0 +1,37 @@
+{
+  "name": "Example Punk NFT",
+  "description": "For use as an example",
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAA6lBMVEVjhZbmVwDbsYAAAADvUgBbh5pzgY3gtYPXXi/mVACRdVXsVADnUQDnuodRbXtuWUAzKR7jdkDemmbatYRcOQ/yXAAhGxNcfIw2FADXUQBpQA/QehXHdRShXhB6f4lwFRFvCAyBOirOp3gYHyOPeXsOCQNqg5KWd3j1TwDFZknIZEWwjmetb2ThiFXrjVgzHxMsGwfmYyByKwC8RwDkbDHcqnjeXiPQVyAfCQA+JQi7UBhGKwo1IAjZvY2HTw1gOACHWit9WTOAPQijcm2WW0J+LSMhLTNqXEuLSDWhak2SZUNnJgCZNgCMZmBJqbNQAAACmUlEQVRoge3Ye1/SUBjAcXbcOI4xBi0poYuNuQFD5ZJIRdnVSuj9v52es/OwiwS1s7M++Wm/f9BH93XgYWdaqZSVlZWVlZWV/eW0ga4k0gfa/4171TBvmMaHm3muM/b7aljKBp1P+36eZ6C5hrInwxXHNe33uCbIe77rjvbjI9f1xV73at8w9tqgG0a/Koar+2WeWuL3Ddfr6XCEb1rVE1rriOutB+nqiv4SHlpc14eDwUAYr5/ZJJF9CXjLJvZZHZ8YJAsnd3FWRhleSK9/xFLPzVSXMG7B47kafvlIAJ/P51eLx2EXzXQ4uuBfXRxnx3VdOT74owRwOKJgfLFYwNGnGJPa0EE8E8cVOGwGR796yAOq7RDiwGiMo7E4rmzj5H7gk8nkNRz9psNL4EscLYXxyVvbDuDod13eMsY7OOqI4zahIf4krDtO4nyUB6cc70b4KeLXeXF9EgRBzbKs90958KHFcHj4gKOP0+lK/B1qwRWqhm9FxzQpuyzCKMDRTOzCtcEpoREeXXVphItdcuF2JwOuZdvqRhDiQY0X48TB0SFupPDNnzLocCqPOE4oltyO+MTGfZTd1l1l26U3+O4iHNbWYX48/Qwk42yt06JwuHg1zaLwdpE42+kKwx2osF9ouhKHK+2X55tOPlPp+EmUJNwsCu/d3HyN1x799iLqO+WrUhxnNeDsa/jS0ESE7yGbzSI/nk4mvrVZmPJwB24zEjb79HY1XUnBTWt7g17jbUVBuKJIxOPFIhWPbi+w2/V6PVMk4WyxmO34j6xp6qwlrHOzWSS+48yNMHWeC6ewtgP4Ab1Go/Ej/sea4bu8zPbdawvb/Xvp/2WqVY2XD2f9Cs+u7sd91cB06XjFexYnbO/C5fQP4z8BcXVpzGaToAUAAAAASUVORK5CYII=",
+  "external_url": "https://cryptopunks.app/cryptopunks/details/5601",
+  "attributes": [
+      {
+          "trait_type": "Type",
+          "value": "Punk"
+      },
+      {
+          "trait_type": "Asset Name",
+          "value": "Punk 5601"
+      },
+      {
+          "trait_type": "Linked ERC20",
+          "value": ""
+      },
+      {
+          "trait_type": "Staked",
+          "value": "No"
+      },
+      {
+          "trait_type": "Version",
+          "value": "1.5"
+      },
+      {
+          "display_type": "number",
+          "trait_type": "ETH Value",
+          "value": "200"
+      },
+      {
+          "trait_type": "Valuation Link",
+          "value": "https://cryptopunks.app/cryptopunks/details/5601"
+      }
+  ]
+}
